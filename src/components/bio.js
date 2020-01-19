@@ -54,8 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Recetas de <strong>{author}</strong> para comidas saladas y dulces
-        veganas y vegetarianas.
+        Recetas de <strong>{author}</strong>
+        para comidas saladas y dulces
+        veganas y vegetarianas.¡¡     creado por:
         {` `}
         <a href={`http://ggcon.com.ar`}>
           ggcon
