@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lucasg2155/luk
+  repo: lucasg2155/klog
 
   branch: master
 
