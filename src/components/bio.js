@@ -54,11 +54,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Recetas de <strong>{author}</strong> para comidas saladas y dulces
+        veganas y vegetarianas.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`http://ggcon.com.ar`}>
+          ggcon
         </a>
       </p>
     </div>
