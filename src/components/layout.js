@@ -66,6 +66,17 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, creado por
           {` `}
           <a href="http://www.ggcon.com.ar">ggcon</a>
+          {` `}
+          <Link
+            style={{
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `inherit`,
+            }}
+            to={`/`}
+          >
+            Cris
+          </Link>
         </footer>
       </div>
     )

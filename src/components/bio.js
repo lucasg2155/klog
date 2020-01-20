@@ -61,6 +61,17 @@ const Bio = () => {
         <a href={`http://ggcon.com.ar`}>
           ggcon
         </a>
+        {` `}
+        <a
+          className = ""
+          href = "/ admin /"
+          target = "_ blank"
+          rel = "noopener noreferrer"
+           >
+          Administración
+          </a>
+
+        
       </p>
     </div>
   )
