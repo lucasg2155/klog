@@ -76,7 +76,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            <strong>{author}</strong>
+            <strong>Inicio</strong>
           </Link>
         </footer>
       </div>
