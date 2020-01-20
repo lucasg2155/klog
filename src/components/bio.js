@@ -64,7 +64,7 @@ const Bio = () => {
         {` `}
         <a
           className = ""
-          href = "/ admin /"
+          href = "/admin/"
           target = "_ blank"
           rel = "noopener noreferrer"
            >

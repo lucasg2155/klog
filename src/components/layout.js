@@ -67,6 +67,7 @@ class Layout extends React.Component {
           {` `}
           <a href="http://www.ggcon.com.ar">ggcon</a>
           {` `}
+          {` `}
           <Link
             style={{
               boxShadow: `none`,
@@ -75,7 +76,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            Cris
+            <strong>{author}</strong>
           </Link>
         </footer>
       </div>
