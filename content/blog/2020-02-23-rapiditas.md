@@ -12,3 +12,5 @@ Manteca 150gr
 Sal media cucharadita
 
 Agua 250gr
+
+![masa](/img/Como-hacer-masa-para-tacos-1.jpg "masatacos")
