@@ -5,4 +5,4 @@ description: 'Masa para tacos '
 ---
 
 
-![](/img/lasagna.jpg)
+![Rapiditas](/img/lasagna.jpg "Masa")
